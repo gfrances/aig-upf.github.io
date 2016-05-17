@@ -1,0 +1,25 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+baseurl:
+url: "http://http://aig-upf.github.io" # "http://yourdomain.com" # the base hostname & protocol for your site
+title: Academic Publications
+description: "This site contains several of the software projects authored by researchers at the Artificial Intelligence Research Group at UPF, Barcelona."
+subtitle:
+author: AIG researchers
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:short_year/:title
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+git:
+  branch: master
+
+kramdown:
+  parse_block_html: true
+
+
