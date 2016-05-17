@@ -14,8 +14,7 @@ author: AIG researchers
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
-
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 git:
   branch: master
 
