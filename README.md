@@ -7,4 +7,9 @@ a [Jekyll engine](https://help.github.com/articles/using-jekyll-as-a-static-site
 Any subsequent request to [http://aig-upf.github.io/](http://aig-upf.github.io/) is served from
 Github's HTTP servers.
 
+## Continuous Integration
 
+The static site is tested for a correct build process and absence of broken links, etc. through integration with
+Travis:
+* [https://docs.travis-ci.com/user/getting-started/](https://docs.travis-ci.com/user/getting-started/)
+* [https://jekyllrb.com/docs/continuous-integration/](https://jekyllrb.com/docs/continuous-integration/)
