@@ -1,4 +1,4 @@
-# AIG Software Repository Website
+# AIG Software Repository Website [![Build Status](https://travis-ci.org/aig-upf/aig-upf.github.io.svg?branch=master)](https://travis-ci.org/aig-upf/aig-upf.github.io)
 
 This is the source code for the [http://aig-upf.github.io/](http://aig-upf.github.io/) static site.
 The site is published through the [Github Pages](https://pages.github.com/) mechanism, meaning
