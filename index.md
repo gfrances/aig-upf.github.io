@@ -27,7 +27,7 @@ in former AIG member [Miquel Ramírez](https://github.com/miquelramirez)'s accou
 toolkit geared towards supporting some of the newer group's projects is performed.
 
 
-## [PROBE](http://ai.upf.edu/software/probe-classical-planner)
+## [PROBE](https://github.com/aig-upf/probe)
 
 PROBE is a classical planner that participated in the seventh international planning competition, IPC-2011 with notable
 performance.
