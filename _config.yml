@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 baseurl:
-url: "http://http://aig-upf.github.io" # "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://http://aig-upf.github.io"
 title: Academic Publications
 description: "This site contains several of the software projects authored by researchers at the Artificial Intelligence Research Group at UPF, Barcelona."
 subtitle:
