@@ -2,9 +2,14 @@
 layout: frontpage
 ---
 
-This is the main software repository of the Artificial Intelligence Research Group at Universitat Pompeu Fabra, Barcelona, Spain.
+This is the main software repository of the
+Artificial Intelligence and Machine Learning Research Group
+at [Universitat Pompeu Fabra](https://www.upf.edu), Barcelona, Spain.
 You can browse the full list of publicly available projects on the [group's Github page](https://github.com/aig-upf/),
 or click directly to a particular project on the list below:
+
+## [Automated Programming Framework](https://github.com/aig-upf/automated-programming-framework)
+
 
 ## [The FS Planner](https://github.com/aig-upf/fs)
 
@@ -17,14 +22,10 @@ and other constraint-based
 ## [The Lightweight Automated Planning Toolkit (LAPKT)](https://github.com/aig-upf/LAPKT-public)
 LAPKT is an open-source framework written in C++ / Python to ease the creation of high-performance automated planners.
 The toolkit has been succesfully used as the basis for a number of planners from
-the last []International Planning Competition (2014)](https://helios.hud.ac.uk/scommv/IPC-14/), as well as
+the last [International Planning Competition (2014)](https://helios.hud.ac.uk/scommv/IPC-14/), as well as
 in several research projects on compilation-based and replanning approaches.
 
-The full documentation of the toolkit can be found on the [project's main website](http://lapkt.org);
-our group's [project repository](https://github.com/aig-upf/LAPKT-public) is a fork of the
-[original repository](https://github.com/miquelramirez/LAPKT-public)
-in former AIG member [Miquel Ramírez](https://github.com/miquelramirez)'s account where development of the
-toolkit geared towards supporting some of the newer group's projects is performed.
+The full documentation of the toolkit can be found on the [project's main website](http://lapkt.org).
 
 
 ## [PROBE](https://github.com/aig-upf/probe)
@@ -33,7 +34,13 @@ PROBE is a classical planner that participated in the seventh international plan
 performance.
 
 
+## [Multiagent Parser](https://github.com/aig-upf/universal-pddl-parser-multiagent)
 
 
+
+## [Universal PDDL parser](https://github.com/aig-upf/universal-pddl-parser)
+
+A `PDDL` parser written in `C++` and, used in several of the other software projects within the group.
+Provides support for programmatically parsing and generating `PDDL` instances.
 
 
